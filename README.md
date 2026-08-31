@@ -1,3 +1,5 @@
+🚀 **Live Demo:** [[Click Here to Access MediGuide AI Assistant](https://medi-guide-ai-assistant-8o.streamlit.app/)]
+
 # MediGuide AI
 
 An educational LangChain + Streamlit prototype for AI-powered medical symptom
